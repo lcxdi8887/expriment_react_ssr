@@ -33,3 +33,5 @@ To enable the server-side rendering for our react app, we need followings:
    and webpack config file, more info: https://webpack.js.org/configuration/
 4. based on webapck setting, add bundle and client files
    Because we currently test without redux, the diff between two files are just use render/hydrate
+5. add server template file
+6. add server index to handle requests
