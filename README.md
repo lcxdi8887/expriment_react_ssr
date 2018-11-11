@@ -25,6 +25,6 @@ To enable the server-side rendering for our react app, we need followings:
 
 
 ### Steps
-1. use npm to init the package.json
+1. use npm to init the package.json, with 'npm init -y'
   - necessary packages and their dependencies
   - scripts to build and run our server

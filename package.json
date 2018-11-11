@@ -1,0 +1,20 @@
+{
+  "name": "experiment_react_ssr",
+  "version": "1.0.0",
+  "description": "A project to try server-side rendering with a React app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcxdi8887/expriment_react_ssr.git"
+  },
+  "keywords": [],
+  "author": "Ronan Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcxdi8887/expriment_react_ssr/issues"
+  },
+  "homepage": "https://github.com/lcxdi8887/expriment_react_ssr#readme"
+}
