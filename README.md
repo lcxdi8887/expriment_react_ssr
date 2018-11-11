@@ -32,3 +32,4 @@ To enable the server-side rendering for our react app, we need followings:
 3. add babel config file, more info: https://babeljs.io/docs/en/config-files
    and webpack config file, more info: https://webpack.js.org/configuration/
 4. based on webapck setting, add bundle and client files
+   Because we currently test without redux, the diff between two files are just use render/hydrate
